@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/Profolio/static/css/main.3f32d982.css",
-    "main.js": "/Profolio/static/js/main.dc039bd4.js",
+    "main.css": "/Profolio/static/css/main.06713bc9.css",
+    "main.js": "/Profolio/static/js/main.2c8b55e8.js",
     "static/media/about2.png": "/Profolio/static/media/about2.f4faa1eaca1ed095bd1f.png",
-    "static/media/recon.png": "/Profolio/static/media/recon.0395969e751df6febfb1.png",
+    "static/media/hololive.png": "/Profolio/static/media/hololive.349ddab26d41bb2d0954.png",
+    "static/media/dark library.png": "/Profolio/static/media/dark library.2ea74bb76997d99822c3.png",
     "static/media/profolio.png": "/Profolio/static/media/profolio.6998790a7ba7b981f913.png",
-    "static/media/color.png": "/Profolio/static/media/color.052c94ba743cb9eb1a3a.png",
     "static/media/kali.png": "/Profolio/static/media/kali.cbaf89ab2d55c29263f0.png",
     "static/media/metasploit.png": "/Profolio/static/media/metasploit.eddd5999ceb0a06bf0b3.png",
-    "static/media/resume Do Long.pdf": "/Profolio/static/media/resume Do Long.48e71a0ac15014b41c39.pdf",
-    "static/media/weather.jpg": "/Profolio/static/media/weather.d1c606aca727c7a4dc0b.jpg",
+    "static/media/resume Do Long.pdf": "/Profolio/static/media/resume Do Long.354b84e8bd4c859ce654.pdf",
+    "static/media/file-type-identifier.jpg": "/Profolio/static/media/file-type-identifier.13ba6ea5bc8cb03929e4.jpg",
     "static/media/react.png": "/Profolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/burpsuite.jpg": "/Profolio/static/media/burpsuite.43943f517ec73ba98a62.jpg",
     "static/media/heroimage.jpg": "/Profolio/static/media/heroimage.198c92ec526d24fda8e8.jpg",
+    "static/media/python.webp": "/Profolio/static/media/python.ed433a3c37350756381e.webp",
     "static/media/blog.jpg": "/Profolio/static/media/blog.5ca5f7bf656656b21a6b.jpg",
     "static/media/html.png": "/Profolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/typescript.png": "/Profolio/static/media/typescript.f51bfe0f5411854481c5.png",
+    "static/media/DOSdetector.png": "/Profolio/static/media/DOSdetector.f555d4c2c438465d8248.png",
     "static/media/javascript.png": "/Profolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "static/media/top10.webp": "/Profolio/static/media/top10.cd3af8e23ea857cd0011.webp",
     "index.html": "/Profolio/index.html",
-    "main.3f32d982.css.map": "/Profolio/static/css/main.3f32d982.css.map",
-    "main.dc039bd4.js.map": "/Profolio/static/js/main.dc039bd4.js.map"
+    "main.06713bc9.css.map": "/Profolio/static/css/main.06713bc9.css.map",
+    "main.2c8b55e8.js.map": "/Profolio/static/js/main.2c8b55e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f32d982.css",
-    "static/js/main.dc039bd4.js"
+    "static/css/main.06713bc9.css",
+    "static/js/main.2c8b55e8.js"
   ]
 }
