@@ -2,7 +2,7 @@
   "name": "profolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Doquanglong.github.io/Profolio",
+  "homepage": "https://doquanglong.github.io/Portfolio",
   "dependencies": {
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
